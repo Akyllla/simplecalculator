@@ -1,0 +1,29 @@
+Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+Файлы сборки
+bin/
+obj/
+Debug/
+Release/
+
+Временные файлы
+*.tmp
+*.log
+*.cache
+
+Резервные копии
+*.bak
+*.old
+
+Файлы операционной системы
+.DS_Store
+Thumbs.db
+
+Временные файлы редакторов
+*.swp
+*.swo
